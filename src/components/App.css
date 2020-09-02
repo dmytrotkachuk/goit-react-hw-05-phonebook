@@ -1,0 +1,14 @@
+ul,h1,h2,p{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.wrapper{
+    padding: 22px;
+    width: 500px;
+    /* border: 1px solid #4267B2; */
+    background-color: #ffffff;
+
+}
